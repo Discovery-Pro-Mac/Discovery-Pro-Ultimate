@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://waltersddance.github.io/.github/discoverypro">  
+<a href="https://crissyarp.github.io/.github/discoverypro">  
 <img src="https://img.shields.io/badge/GET_Discovery_Pro_Ultimate-darkgreen?style=for-the-badge&logo=apple" alt="GET Discovery Pro Ultimate">  
 </a>  
 </div>  
